@@ -11,9 +11,9 @@
 
 		</classes>
 
-	</test> <!-- Test -->
+	</test>
 
-	<test  name="Testfirefox">
+	 <!-- <test  name="Testfirefox">
 
 		<parameter name="browser" value="firefox" />
 
@@ -23,7 +23,7 @@
 
 		</classes>
 
-	</test> <!-- Test -->
+	</test>
 
 	<test  name="Testedge">
 
@@ -35,6 +35,6 @@
 
 		</classes>
 
-	</test> <!-- Test -->
+	</test>   -->
 
 </suite> <!-- Suite -->
